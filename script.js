@@ -1,3 +1,4 @@
+// Apri la finestra modale quando si fa clic sul pulsante
 document.getElementById("openModal").onclick = function() {
     document.getElementById("myModal").style.display = "block";
 }
